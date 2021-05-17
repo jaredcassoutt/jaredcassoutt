@@ -7,9 +7,9 @@
 
 
 - 🌱 I love learning anything and everything!
-- 💼 I am currently a iOS Software Engineer at eBay
+- 💼 I am currently an iOS Engineer at eBay
 - ⚡ Fun fact: I love to play basketball and guitar in my freetime
-- 📱Check out my most recent [mobile app](https://apps.apple.com/us/app/walls-bounce/id1546190134)
+- 📱 Check out my most recent [mobile app](https://apps.apple.com/us/app/walls-bounce/id1546190134)
 
 <br/>
 
