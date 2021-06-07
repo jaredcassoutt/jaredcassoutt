@@ -7,7 +7,7 @@
 
 
 - 🌱 I love learning anything and everything!
-- 🎓 Baylor University Alum
+- 🎓 Baylor University Alumnus
 - 💼 I am currently an iOS Engineer at eBay
 - ⚡ Fun fact: I love to play basketball and guitar in my freetime
 - 📱 Check out my most recent [mobile app](https://apps.apple.com/us/app/walls-bounce/id1546190134)
