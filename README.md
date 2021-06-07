@@ -6,7 +6,7 @@
 <br/>
 
 
-- 🌱 I love learning anything and everything
+- 🌱 I love learning anything and everything!
 - 🎓 Baylor University Alum
 - 💼 I am currently an iOS Engineer at eBay
 - ⚡ Fun fact: I love to play basketball and guitar in my freetime
