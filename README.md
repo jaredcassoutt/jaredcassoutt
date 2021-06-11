@@ -1,4 +1,4 @@
-### Hi there, I'm Jare👋
+### Hi there, I'm Jared👋
 
 [<img align="left" alt="JaredCS.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jared Cassoutt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
