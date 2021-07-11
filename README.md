@@ -11,7 +11,8 @@
 - 📱 Check out my most recent [mobile app](https://apps.apple.com/us/app/walls-bounce/id1546190134)
 
 <br/>
-![Jareds's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredcassoutt&theme=dark&show_icons=true)
+![Jareds's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredcassoutt&show_icons=true&theme=radical)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredcassoutt&hide=html)](https://github.com/jaredcassoutt/github-readme-stats?theme=dark)
 
 [website]: https://JaredCS.com
