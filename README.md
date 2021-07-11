@@ -12,6 +12,10 @@
 
 <br/>
 
+[![Jareds's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredcassoutt)](https://github.com/jaredcassoutt/github-readme-stats)
+
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredcassoutt&hide=html)](https://github.com/jaredcassoutt/github-readme-stats?theme=dark)
 
 [website]: https://JaredCS.com
