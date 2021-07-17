@@ -8,7 +8,7 @@
 
 - 🌱 I love learning anything and everything!
 - ⚡ Fun fact: I love to play basketball and guitar in my freetime
-- 📱 Check out my most recent [mobile app](https://apps.apple.com/us/app/walls-bounce/id1546190134)
+- 📱 Check out my most recent [mobile app](https://apps.apple.com/us/app/styvio/id1568353331)
 
 <br/>
 
