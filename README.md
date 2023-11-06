@@ -12,12 +12,6 @@
 
 <br/>
 
-[![Jareds's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredcassoutt&count_private=true&theme=dark&hide=issues)](https://github.com/jaredcassoutt/github-readme-stats)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredcassoutt&hide=html&theme=dark&layout=compact)](https://github.com/jaredcassoutt/github-readme-stats)
-
 [website]: https://JaredCS.com
 [instagram]: https://instagram.com/jaredcassoutt
 [linkedin]: https://linkedin.com/in/jaredcassoutt
