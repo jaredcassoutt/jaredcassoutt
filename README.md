@@ -8,7 +8,7 @@
 
 - 🌱 I love learning anything and everything!
 - ⚡ Fun fact: I love to play basketball and guitar in my freetime
-- 📱 Learn to invest with [Haplo - AI Investing](https://apps.apple.com/us/app/styvio/id1568353331)
+- 📈 Learn to invest with [Haplo - AI Investing](https://apps.apple.com/us/app/styvio/id1568353331)
 - 📱 Limit your social media usage with [Barrier - Social Lock](https://apps.apple.com/us/app/barrier-social-lock/id6448244443)
 
 <br/>
