@@ -8,8 +8,9 @@
 - 🌱 I love learning anything and everything!
 - ⚡ Fun fact: I love reading, playing basketball, and playing guitar in my freetime
 - 📈 Learn to invest with [Haplo - AI Investing](https://apps.apple.com/us/app/styvio/id1568353331)
-- 📱 Limit your social media usage with [Barrier - Social Lock](https://apps.apple.com/us/app/barrier-social-lock/id6448244443)
+- 📱 Limit your screen time usage with [Barrier: Screen Time For Focus](https://apps.apple.com/us/app/barrier-social-lock/id6448244443)
 - 🤖 Create object detection ML datasets with [Annot8](https://apps.apple.com/us/app/annot8/id6469836426?mt=12)
+- 📄 Convert markdown to a pdf with [MD2PDF](https://apps.apple.com/us/app/markdown2pdf-convert-markdown/id6743325583?mt=12)
 
 
 <br/>
