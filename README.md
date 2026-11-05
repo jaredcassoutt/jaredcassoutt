@@ -1,6 +1,6 @@
 ### Hi there, I'm Jared👋
 - 💬 Chat with a private, offline AI using [Haplo AI](https://apps.apple.com/us/app/haplo-ai-offline-private-ai/id6746702574)  
-- 🚢 Manage App Store screenshots and metadata with [Ship Happens](https://apps.apple.com/us/app/ship-happens/id6468325267)
+- 🚢 Manage App Store screenshots and metadata with [Ship Happens](https://apps.apple.com/us/app/shiphappens-aso-analytics/id6748663243?mt=12)
 - 📱 Limit your screen time usage with [Barrier: Screen Time For Focus](https://apps.apple.com/us/app/barrier-social-lock/id6448244443)  
 - 🎨 Design quick logos with [EasyLogo](https://apps.apple.com/us/app/easylogo-quick-logo-maker/id6740788822)  
 - 📈 Learn to invest with [Haplo AI Investing](https://apps.apple.com/us/app/styvio/id1568353331)  
